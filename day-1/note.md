@@ -58,7 +58,7 @@ contract SimpleStorage {
 }
 A contract is like a container where you put variables (data) and functions (logic).
 
-✅ Summary (Layman’s Terms)
+## Summary (Layman’s Terms)
 Today, I built the skeleton of my first smart contract:
 
 Added a license (MIT) so people know the rules.
