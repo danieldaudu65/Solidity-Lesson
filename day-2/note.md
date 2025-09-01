@@ -14,12 +14,12 @@ Understanding these basic types is crucial when building smart contracts.
 
 ---
 
+```solidity
 ## 🔹 Boolean Type
 
 The `bool` type can have **two values**: `true` or `false`.  
 It is mainly used for **conditions and flags**.
 
-```solidity
 bool isActive = false;
  - isActive is initialized to false.
  - Can be toggled later in the contract.
